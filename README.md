@@ -2,6 +2,8 @@
 
 ### Problem Statement/Objectives
 
+Our motivation is to explore and analyze the house dataset to find the key features that influences the sale price and develop a model to predict in house price in Ames, Iowa by using multiple linear regression
+
 1. Find the key features that influence the sale price 
 2. Develop and evaluate models to predict the house price in Ames, Iowa by using multiple linear regression
 
